@@ -1,0 +1,74 @@
+/*!
+ * Bootstrap-submenu v2.0.4 (https://vsn4ik.github.io/bootstrap-submenu/)
+ * Copyright 2014-2016 Vasily A. (https://github.com/vsn4ik)
+ * Licensed under the MIT license
+ */
+
+
+
+
+@media (max-width: 767px) {
+  .dropdown .dropdown-menu .dropdown-submenu .dropdown-menu {
+    position: static;
+    margin-top: 0;
+    border: 0;
+    box-shadow: none;
+  }
+  .dropdown .dropdown-menu .dropdown-submenu .dropdown-menu {
+    margin-left: 6px;
+    display: inline-block;
+    vertical-align: middle;
+    border-top: 4px dashed;
+    border-left: 4px solid transparent;
+    border-right: 4px solid transparent;
+  }
+  .dropdown > .dropdown-menu > .dropdown-submenu > .dropdown-menu > li.dropdown-header,
+  .dropup > .dropdown-menu > .dropdown-submenu > .dropdown-menu > li.dropdown-header,
+  .btn-group > .dropdown-menu > .dropdown-submenu > .dropdown-menu > li.dropdown-header,
+  .dropdown > .dropdown-menu > .dropdown-submenu > .dropdown-menu > li > a,
+  .dropup > .dropdown-menu > .dropdown-submenu > .dropdown-menu > li > a,
+  .btn-group > .dropdown-menu > .dropdown-submenu > .dropdown-menu > li > a {
+    padding-left: 30px;
+  }
+  .dropdown > .dropdown-menu > .dropdown-submenu > .dropdown-menu > li > .dropdown-menu > li.dropdown-header,
+  .dropup > .dropdown-menu > .dropdown-submenu > .dropdown-menu > li > .dropdown-menu > li.dropdown-header,
+  .btn-group > .dropdown-menu > .dropdown-submenu > .dropdown-menu > li > .dropdown-menu > li.dropdown-header,
+  .dropdown > .dropdown-menu > .dropdown-submenu > .dropdown-menu > li > .dropdown-menu > li > a,
+  .dropup > .dropdown-menu > .dropdown-submenu > .dropdown-menu > li > .dropdown-menu > li > a,
+  .btn-group > .dropdown-menu > .dropdown-submenu > .dropdown-menu > li > .dropdown-menu > li > a {
+    padding-left: 40px;
+  }
+  .dropdown > .dropdown-menu > .dropdown-submenu > .dropdown-menu > li > .dropdown-menu > li > .dropdown-menu > li.dropdown-header,
+  .dropup > .dropdown-menu > .dropdown-submenu > .dropdown-menu > li > .dropdown-menu > li > .dropdown-menu > li.dropdown-header,
+  .btn-group > .dropdown-menu > .dropdown-submenu > .dropdown-menu > li > .dropdown-menu > li > .dropdown-menu > li.dropdown-header,
+  .dropdown > .dropdown-menu > .dropdown-submenu > .dropdown-menu > li > .dropdown-menu > li > .dropdown-menu > li > a,
+  .dropup > .dropdown-menu > .dropdown-submenu > .dropdown-menu > li > .dropdown-menu > li > .dropdown-menu > li > a,
+  .btn-group > .dropdown-menu > .dropdown-submenu > .dropdown-menu > li > .dropdown-menu > li > .dropdown-menu > li > a {
+    padding-left: 50px;
+  }
+  .dropdown > .dropdown-menu > .dropdown-submenu > .dropdown-menu > li > .dropdown-menu > li > .dropdown-menu > li > .dropdown-menu > li.dropdown-header,
+  .dropup > .dropdown-menu > .dropdown-submenu > .dropdown-menu > li > .dropdown-menu > li > .dropdown-menu > li > .dropdown-menu > li.dropdown-header,
+  .btn-group > .dropdown-menu > .dropdown-submenu > .dropdown-menu > li > .dropdown-menu > li > .dropdown-menu > li > .dropdown-menu > li.dropdown-header,
+  .dropdown > .dropdown-menu > .dropdown-submenu > .dropdown-menu > li > .dropdown-menu > li > .dropdown-menu > li > .dropdown-menu > li > a,
+  .dropup > .dropdown-menu > .dropdown-submenu > .dropdown-menu > li > .dropdown-menu > li > .dropdown-menu > li > .dropdown-menu > li > a,
+  .btn-group > .dropdown-menu > .dropdown-submenu > .dropdown-menu > li > .dropdown-menu > li > .dropdown-menu > li > .dropdown-menu > li > a {
+    padding-left: 60px;
+  }
+  .navbar-nav > .dropdown > .dropdown-menu > .dropdown-submenu > .dropdown-menu > li.dropdown-header,
+  .navbar-nav > .dropdown > .dropdown-menu > .dropdown-submenu > .dropdown-menu > li > a {
+    padding-left: 35px;
+  }
+  .navbar-nav > .dropdown > .dropdown-menu > .dropdown-submenu > .dropdown-menu > li > .dropdown-menu > li.dropdown-header,
+  .navbar-nav > .dropdown > .dropdown-menu > .dropdown-submenu > .dropdown-menu > li > .dropdown-menu > li > a {
+    padding-left: 45px;
+  }
+  .navbar-nav > .dropdown > .dropdown-menu > .dropdown-submenu > .dropdown-menu > li > .dropdown-menu > li > .dropdown-menu > li.dropdown-header,
+  .navbar-nav > .dropdown > .dropdown-menu > .dropdown-submenu > .dropdown-menu > li > .dropdown-menu > li > .dropdown-menu > li > a {
+    padding-left: 55px;
+  }
+  .navbar-nav > .dropdown > .dropdown-menu > .dropdown-submenu > .dropdown-menu > li > .dropdown-menu > li > .dropdown-menu > li > .dropdown-menu > li.dropdown-header,
+  .navbar-nav > .dropdown > .dropdown-menu > .dropdown-submenu > .dropdown-menu > li > .dropdown-menu > li > .dropdown-menu > li > .dropdown-menu > li > a {
+    padding-left: 65px;
+  }
+}
+/*# sourceMappingURL=bootstrap-submenu.css.map */
